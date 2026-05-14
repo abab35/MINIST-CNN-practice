@@ -1,0 +1,49 @@
+appnope==0.1.4
+asttokens==3.0.1
+comm==0.2.3
+contourpy @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_2cvjf0v4ux/croot/contourpy_1732540055997/work
+cycler @ file:///Users/ec2-user/croot/cycler_1766067937639/work
+debugpy==1.8.20
+decorator==5.2.1
+exceptiongroup==1.3.1
+executing==2.2.1
+filelock==3.29.0
+fonttools @ file:///Users/ec2-user/croot/fonttools_1774256493776/work
+fsspec==2026.4.0
+ipykernel==7.2.0
+ipython==8.39.0
+jedi==0.19.2
+Jinja2==3.1.6
+jupyter_client==8.8.0
+jupyter_core==5.9.1
+kiwisolver @ file:///opt/miniconda3/conda-bld/kiwisolver_1764159413598/work
+MarkupSafe==3.0.3
+matplotlib==3.10.9
+matplotlib-inline==0.2.1
+mpmath==1.3.0
+nest-asyncio==1.6.0
+networkx==3.4.2
+numpy @ file:///Users/ec2-user/croot/numpy_and_numpy_base_1776190111216/work/dist/numpy-2.2.5-cp310-cp310-macosx_12_0_arm64.whl#sha256=326d9d5013597eccd52c88298745e8d735795390dd35c890e370f499d772402d
+packaging==26.0
+parso==0.8.6
+pexpect==4.9.0
+pillow @ file:///Users/ec2-user/croot/pillow_1777974298509/work
+platformdirs==4.9.6
+prompt_toolkit==3.0.52
+psutil==7.2.2
+ptyprocess==0.7.0
+pure_eval==0.2.3
+Pygments==2.20.0
+pyparsing @ file:///opt/miniconda3/conda-bld/pyparsing_1763973787496/work
+python-dateutil @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_66ud1l42_h/croot/python-dateutil_1716495741162/work
+pyzmq==27.1.0
+six @ file:///private/var/folders/k1/30mswbxs7r1g6zwn8y4fyt500000gp/T/abs_03myqm7p6o/croot/six_1744271511946/work
+stack-data==0.6.3
+sympy==1.14.0
+torch==2.11.0
+torchaudio==2.11.0
+torchvision==0.26.0
+tornado @ file:///Users/ec2-user/croot/tornado_1774303638441/work
+traitlets==5.14.3
+typing_extensions==4.15.0
+wcwidth==0.6.0
